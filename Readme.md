@@ -1,4 +1,4 @@
-**MLP for MNIST Classification using PyTorch**
+# **MLP for MNIST Classification using PyTorch**
 
 **🚀 Project Overview**
 
@@ -129,3 +129,9 @@ Recall: 0.9839
 F1-Score: 0.9839
 
 Best Hyperparameters: {\'learning_rate\': 0.01, \'dropout_rate\': 0.5}
+
+![4](https://github.com/user-attachments/assets/5993d84b-29bb-4872-8c11-c49c33dd9ac4)
+![3](https://github.com/user-attachments/assets/6677307a-823f-43fc-8ea9-99d0544a8e9a)
+![2](https://github.com/user-attachments/assets/0112cea0-f08e-4287-910e-a8e151acf23d)
+![1](https://github.com/user-attachments/assets/143d8313-9708-4c73-92b4-47731ba3c99d)
+
